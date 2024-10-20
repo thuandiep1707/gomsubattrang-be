@@ -20,6 +20,7 @@
     "eslint": "^9.7.0",
     "express": "^4.19.2",
     "firebase": "^10.14.1",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "nedb": "^1.8.0"
   }
 }
